@@ -1,4 +1,6 @@
 
+`DEMO:` https://cinar00-react-movie-imdb-app.netlify.app/
+
 
 # Getting Started with Create React App
 
