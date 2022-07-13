@@ -8,8 +8,8 @@ import MovieBox from "./components/MovieBox"
 
 
 
-const API_URL=process.env.REACT_APP_SECRET_API_URL;
-const API_SEARCH=process.env.REACT_APP_API_SEARCH;
+const API_URL="https://api.themoviedb.org/3/movie/popular?api_key=37131fdfd0b2826915328ca5c3b259b5";
+const API_SEARCH="https://api.themoviedb.org/3/search/movie?api_key=37131fdfd0b2826915328ca5c3b259b5&query";
 
 function App() {
 
